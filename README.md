@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Goodymind
 - 👀 I’m interested in Coding in General
-- 🌱 I’m currently learning and mastering C#
+- 🌱 I’m good at C#, and a little bit of python. I use the Godot Game Engine a LOT!
 - 📫 aabuke9@gmail.com
 
 <!---
