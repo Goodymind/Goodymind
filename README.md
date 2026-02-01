@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Goodymind
 - 👀 I’m interested in Coding in General
-- 🌱 I’m good at C#, Java, and Python. I use the Godot Game Engine a LOT!
+- 🌱 I’m good at C#, C++, Java, and Python, Full Stack Development, and I use the Godot Game Engine a LOT!
+- 🔥 I like Arduino, and is looking to forward in buying my own Raspberry Pi 
 - 📫 aabuke9@gmail.com
 
 <!---
